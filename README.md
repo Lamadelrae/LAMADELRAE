@@ -1,8 +1,7 @@
 ## Matthew Almeida - Software Engineer
 <div align="center">
   <a href="https://github.com/lamadelrae">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lamadelrae&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamadelrae&layout=compact&langs_count=7&theme=github_dark"/>
+  ![lamadelrae's Stats](https://github-readme-stats.vercel.app/api?username=lamadelrae&theme=dark&show_icons=true&hide_border=true&count_private=true)
 </div>
     
 ##
